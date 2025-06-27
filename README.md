@@ -1,3 +1,4 @@
+# ✈️ Plane Crash Analysis Dashboard
 
 This project is an end-to-end data analytics workflow focused on global plane crash data from 1918 to 2022. It uses **Python**, **MySQL**, and **Power BI** to uncover key trends and patterns and visualize them in a dynamic dashboard.
 
